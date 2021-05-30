@@ -7,7 +7,7 @@ Here are instructions to build this!
 
 <h2>Instructions to build:</h2>
 
-You need a 3D Printer, an Arduino, a computer, a breadboard, a handful of wires, a 330Ω resistor, a button, a 9V battey and connector, and one mini servo.
+You need a 3D Printer, an Arduino, a computer, a breadboard, a handful of wires, a button, a 9V battey and connector, and one mini servo.
 
 Connect all of your parts as shown in this diagram. 
 
