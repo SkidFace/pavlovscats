@@ -1,5 +1,4 @@
-# pavlovscats
-# ArduinoPrank
+# Pavlov's Cats
 
 Hey you! You actually scanned the QR code!
 (If not I have no clue why you are here...)
