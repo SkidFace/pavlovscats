@@ -25,10 +25,13 @@ Mount the Arduino to a wall.
 
 <h2>Pictures</h2>
 
-![IMG_0656](https://user-images.githubusercontent.com/74504657/120119217-5d7b4600-c14b-11eb-8df0-51a2fea51961.jpg)
-![IMG_0655](https://user-images.githubusercontent.com/74504657/120119220-5e13dc80-c14b-11eb-9d38-b12dff5fdb98.jpg)
-![IMG_0652](https://user-images.githubusercontent.com/74504657/120119223-5fdda000-c14b-11eb-8bef-75425b9b3534.jpg)
-![IMG_0653](https://user-images.githubusercontent.com/74504657/120119225-610ecd00-c14b-11eb-801d-148ffcb2281d.jpg)
+![IMG_0652](https://user-images.githubusercontent.com/74504657/120119280-b519b180-c14b-11eb-93fd-f11592047793.jpg)
+
+![IMG_0653](https://user-images.githubusercontent.com/74504657/120119282-b64ade80-c14b-11eb-847c-9c42ef7b8cd3.jpg)
+
+![IMG_0654](https://user-images.githubusercontent.com/74504657/120119278-b34fee00-c14b-11eb-88c6-6082a32583f4.jpg)
+
+![IMG_0656](https://user-images.githubusercontent.com/74504657/120119276-b1862a80-c14b-11eb-99a5-aacffb0a0232.jpg)
 
 
 
