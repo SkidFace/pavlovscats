@@ -2,14 +2,15 @@
 # ArduinoPrank
 
 Hey you! You actually scanned the QR code!
+(If not I have no clue why you are here...)
 
 Here are instructions to build this! 
 
 <h2>Instructions to build:</h2>
 
-You need a 3D Printer, an Arduino, a computer, a breadboard, a handful of wires, a 330Ω resistor, a button, and one mini servo.
+You need a 3D Printer, an Arduino, a computer, a breadboard, a handful of wires, a 330Ω resistor, a button, a 9V battey and connector, and one mini servo.
 
-Connect all of your parts as shown in this diagram. Please note the program I used does not have a reed switch, so I have replaced it with a button to represent it. To wire the sensor, remove the button, take the reed switch and connect one of its terminals to F16, and the other to D14. 
+Connect all of your parts as shown in this diagram. 
 
 ![diagram](https://user-images.githubusercontent.com/74504657/120113932-a1f9e800-c131-11eb-916f-03171bc3d452.PNG)
 
@@ -22,36 +23,15 @@ When you finished that, screw the Arduino into the arduino_uno_bottom part. Next
 
 Mount the Arduino to a wall.
 
-<h2>Pictures and Videos:</h2>
+<h2>Pictures</h2>
+
+![IMG_0656](https://user-images.githubusercontent.com/74504657/120119217-5d7b4600-c14b-11eb-8df0-51a2fea51961.jpg)
+![IMG_0655](https://user-images.githubusercontent.com/74504657/120119220-5e13dc80-c14b-11eb-9d38-b12dff5fdb98.jpg)
+![IMG_0652](https://user-images.githubusercontent.com/74504657/120119223-5fdda000-c14b-11eb-8bef-75425b9b3534.jpg)
+![IMG_0653](https://user-images.githubusercontent.com/74504657/120119225-610ecd00-c14b-11eb-801d-148ffcb2281d.jpg)
 
 
 
-https://youtu.be/0QXQpJxw0qY to see it in action.
-
-![image0 (2)](https://user-images.githubusercontent.com/74504657/113441824-d193aa80-93a3-11eb-8a87-b7b23a4277d1.jpeg)
-
-![image1 (2)](https://user-images.githubusercontent.com/74504657/113441829-d48e9b00-93a3-11eb-9bd7-61eef78fe905.jpeg)
-
-![image2](https://user-images.githubusercontent.com/74504657/113441845-d7898b80-93a3-11eb-9316-63cbe2bff0ce.jpeg)
 
 
 
-<h2>Where to get the parts:</h2>
-
-Arduino Uno (cheaper variant)($14): https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sxin_10_ac_d_pm?ac_md=1-0-VW5kZXIgJDIw-ac_d_pm&cv_ct_cx=arduino+uno&dchild=1&keywords=arduino+iuno&pd_rd_i=B01EWOE0UU&pd_rd_r=22081792-35d4-4de0-a50d-f63460ab5b78&pd_rd_w=IEcX8&pd_rd_wg=XGbvC&pf_rd_p=fbf6011c-6632-49e8-9631-4e76f7f44920&pf_rd_r=TGSTDV485NEYHXFEJ87X&psc=1&qid=1617038791&sr=1-1-22d05c05-1231-4126-b7c4-3e7a9c0027d0
-
-Door Sensor($7): https://www.amazon.com/Gikfun-Sensor-Magnetic-Switch-Arduino/dp/B0154PTDFI/ref=as_li_ss_tl?keywords=arduino+door+sensor&qid=1582891263&sr=8-4&linkCode=sl1&tag=zlufy-20&linkId=b8a658345ba98a05e3bdd9db630a282a&language=en_US
-
-Resistor($5): https://www.amazon.com/EDGELEC-Resistor-Tolerance-Resistance-Optional/dp/B07HDFFN81/ref=sr_1_2_sspa?crid=2IQNDEHPJXCJT&dchild=1&keywords=330+ohm+resistors&qid=1617038934&s=industrial&sprefix=330+%2Cindustrial%2C213&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQTZQQ1E1Tkc0Mko4JmVuY3J5cHRlZElkPUEwNDUwMDg0M0k4MUk1R0w0WEs3SyZlbmNyeXB0ZWRBZElkPUExMDA1ODU4M0NZV0Y3SURDU0hGNSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
-
-Wires($7): https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV47GI4/ref=sr_1_1_sspa?crid=33H41HSB99MBI&dchild=1&keywords=wire%2Bfor%2Barduino&qid=1617038977&s=industrial&sprefix=wire%2Bfor%2Ba%2Cindustrial%2C208&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjJFVTBTSEpETFNXJmVuY3J5cHRlZElkPUEwMjU2NjQxMklGQjNZOVY2VERQUSZlbmNyeXB0ZWRBZElkPUEwOTQ1MzIxMUVLUFZPSjk1OTFYOSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
-
-This  UV glue REALLY helps but is optional($23): https://www.amazon.com/Bondic-Activated-Waterproof-Resistant-Adhesive/dp/B018IBEHQU/ref=sr_1_1_sspa?dchild=1&keywords=bondic&qid=1617039064&s=industrial&sr=1-1-spons&psc=1&smid=A2FQ5GG01HBOZ1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExN1QwT1NXQVdFNDNHJmVuY3J5cHRlZElkPUEwNzg5NzQwMUYyT0JUVFUyRjZSRyZlbmNyeXB0ZWRBZElkPUEwMzk5MDUxMVNQU0k0UkRHRldRWiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
-
-Don't have a 3D printer? I recomend this one($200): https://www.amazon.com/Creality-Economic-Printing-Function-220x220x250MM/dp/B07CGMN3XF/ref=sr_1_1_sspa?dchild=1&keywords=ender+3&qid=1617039109&s=industrial&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYMzYwS1Y4NTVROEwmZW5jcnlwdGVkSWQ9QTA1Mzk4OTkzMDNEQ1o4NDVDSUJUJmVuY3J5cHRlZEFkSWQ9QTAxNzcwMDVVUVFUSDRVRVpTTVgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
-
-9V batteries($11): https://www.amazon.com/Duracell-Coppertop-Alkaline-Batteries-Count/dp/B000K2NW08/ref=sr_1_2_sspa?dchild=1&keywords=9v+battery&qid=1617039196&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQzhTNTRFRkpRVE4yJmVuY3J5cHRlZElkPUEwODQ4NTA0MlQzUjRFNkdFWEhQUSZlbmNyeXB0ZWRBZElkPUEwMTk4NzkxMkswVEdXMzJSVVVHQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
-
-Adaptor for battery($6): https://www.amazon.com/Battery-Power-Barrel-Connector-Arduino/dp/B07NT79ZVB/ref=sr_1_8?dchild=1&keywords=arduino+battery&qid=1617039147&s=industrial&sr=1-8
-
-In total for all the nessesary parts(if you already have a 3D printer and some glue) you are looking at a price of $33.
