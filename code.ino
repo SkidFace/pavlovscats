@@ -9,6 +9,7 @@ const int PIEZO =  13;
 Servo Servo1;
 
 void setup() {
+  
   pinMode(buttonPin, INPUT);
   currentButtonState = digitalRead(buttonPin);
   Servo1.attach(servoPin);
