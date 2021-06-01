@@ -18,7 +18,7 @@ For the code, go to the code.ino file. Paste it into the Arduino IDE (https://ww
 
 After that, you need to 3D print the parts. Go to the STL file to get them. (I designed these.)
 
-When you finished that, screw the Arduino into the arduino_uno_bottom part. Next, assemble the DROPPER.stl file by glueing the bigger flat piece to the top to make a chamber that holds the projectile. Then slide the servo into place, and glue it. This next step is tricky. Take the smaller square and glue it onto the arm of the servo and make sure it can allow the servo to open and close the chamber. Load your cat treats.
+When you finished that, screw the Arduino into the arduino_uno_bottom part. Next, assemble the DROPPER.stl file by glueing the bigger flat piece to the top to make a chamber that holds the projectile. Then slide the servo into place, and glue it. This next step is tricky. Take the smaller square and glue it onto the arm of the servo and make sure it can allow the servo to open and close the chamber. Glue the Battery.stl file to the left side of the Arduino. Insert the 9V battery and pop in the connector. Load your cat treats.
 
 Mount the Arduino to a wall.
 
