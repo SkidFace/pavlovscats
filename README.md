@@ -32,9 +32,9 @@ Mount the Arduino to a wall.
 
 ![IMG_0656](https://user-images.githubusercontent.com/74504657/120119276-b1862a80-c14b-11eb-99a5-aacffb0a0232.jpg)
 
-_
-For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?
 
+_For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?_
 
-_
+ Luke 14:28
+
 
